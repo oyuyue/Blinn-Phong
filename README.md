@@ -1,2 +1,5 @@
 # Blinn-Phong
-blinn-phong reflection model in webgl 
+
+preview: [https://codepen.io/woopen/full/PoNjVNe](https://codepen.io/woopen/full/PoNjVNe)
+
+![](./img.png)
